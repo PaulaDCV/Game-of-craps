@@ -6,10 +6,25 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		FBDDC3AC271F2DF8009980DF /* Problem1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1.cpp; sourceTree = "<group>"; };
+		FBDDC3AD271F2DF8009980DF /* Problem1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem1.hpp; sourceTree = "<group>"; };
+		FBDDC3AE2720ABC3009980DF /* Problem2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem2.cpp; sourceTree = "<group>"; };
+		FBDDC3B1272A1058009980DF /* Problem2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Problem2.h; sourceTree = "<group>"; };
+		FBDDC3B2272A1087009980DF /* Problem3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Problem3.h; sourceTree = "<group>"; };
+		FBDDC3B3272A1635009980DF /* Problem3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem3.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		FBDDC3A5271F2DDE009980DF = {
 			isa = PBXGroup;
 			children = (
+				FBDDC3AC271F2DF8009980DF /* Problem1.cpp */,
+				FBDDC3AE2720ABC3009980DF /* Problem2.cpp */,
+				FBDDC3B1272A1058009980DF /* Problem2.h */,
+				FBDDC3B2272A1087009980DF /* Problem3.h */,
+				FBDDC3AD271F2DF8009980DF /* Problem1.hpp */,
+				FBDDC3B3272A1635009980DF /* Problem3.cpp */,
 			);
 			sourceTree = "<group>";
 		};
